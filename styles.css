@@ -1,0 +1,41 @@
+body{
+    padding: 30px 40px;
+    text-align: center;
+    background-color: black;
+
+    
+}
+h1{
+    text-align: center;
+    color:aqua;
+    font-size: 75px;
+    
+}
+#container{
+    margin-bottom: 200px;
+    text-align: center;
+    background-color: black;
+    padding: 13px 7px 25px 5px;
+   
+}
+label{
+    color: rgb(158, 181, 248);
+    font-size: 60px;
+}
+.input-div{
+    
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.inp{
+    color:red;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 30px;
+    font-weight: 100;
+    width: 300px; 
+
+}
+
